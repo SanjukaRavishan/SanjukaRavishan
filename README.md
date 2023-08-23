@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey folks!👋🏼 It's me,  
+--------------------
+🎓 An undergraduate  
+⛵ Exploring Problem-Solving with Programming   
+📫 Reach me at sanjukaedu@gmail.com  
+🔍 Find me on:
 
-<!--
-**SanjukaRavishan/SanjukaRavishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>- Twitter: [twitter.com/SanjukaRavishan](https://twitter.com/SanjukaRavishan)
+>- LinkedIn: [linkedin.com/SanjukaRavishan](https://linkedin.com/in/SanjukaRavishan)
+>- Medium Blog: [medium.com/SanjukaRavishan](https://medium.com/@sanjukaravishan)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=SanjukaRavishan&label=daysToDie+-&color=0d1117)
+  ------------------
